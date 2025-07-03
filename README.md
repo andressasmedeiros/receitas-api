@@ -123,6 +123,6 @@ Este projeto está licenciado sob a licença **MIT**.
 
 ---
 
-## 👩‍💻 Autora
+## 👩‍💻 Exerício proposto pelo curso DevInHouse
 
 **Andressa S. Medeiros** – [GitHub](https://github.com/andressasmedeiros)
